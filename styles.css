@@ -204,7 +204,7 @@ footer {
   }
 
   .mainBody img {
-    height: 90vh;
+    height: 80vh;
   }
 
   .mainBody .title {
@@ -213,7 +213,7 @@ footer {
 
   .clickButton {
     padding: 6px 18px;
-    top: 70%;
+    top: 50%;
   }
 
   footer {
