@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Travelopia</title>
+  </head>
+  <header>
+    <div class="header-content">
+      <h1>Welcome to Travelopia</h1>
+      <p>Your ultimate destination for unforgettable adventures</p>
+    </div>
+  </header>
+  <body>
+    <div class="mainBody overlayVisible">
+      <!-- Add overlayVisible class by default -->
+      <h2 class="title">Discover Your Adventure</h2>
+      <button class="clickButton">Click Here</button>
+      <img class="mainImg" src="main.jpg" alt="" />
+    </div>
+  </body>
+  <footer>
+    <div class="footer-content">
+      <p>&copy; 2024 Travelopia. All rights reserved.</p>
+      <ul class="footer-links">
+        <li><a href="#">Terms of Service</a></li>
+        <li><a href="#">Privacy Policy</a></li>
+        <li><a href="#">Contact Us</a></li>
+      </ul>
+    </div>
+  </footer>
+  <script>
+    var button = document.querySelector(".clickButton");
+    button.addEventListener("click", function () {
+      alert("Hello World");
+    });
+  </script>
+</html>
