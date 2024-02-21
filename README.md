@@ -20,7 +20,7 @@ Welcome to Travelopia, your ultimate destination for discovering and planning yo
 ## Usage
 
 1. **Clone the Repository**: Begin by cloning this repository to your local machine using the following command:
-git clone https://github.com/your-username/travelopia.git
+git clone https://github.com/shivamcalis1998/Travelopia-Assignment.git
 
 
 2. **View the Website**: Open the `index.html` file in your preferred web browser to explore Travelopia's website and its features.
